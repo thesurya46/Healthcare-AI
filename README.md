@@ -1,13 +1,13 @@
 # Healthcare-AI
 
-Health Care and Medqueue AI
-Health Care and Medqueue AI Banner
+Health Care and Medqueue AI :
+Health Care and Medqueue AI Banner :
 
 A comprehensive AI-powered platform combining MedQueue AI for intelligent hospital queue and bed management with EduMatch AI for personalized career counseling and student guidance.
 
 Visit Our Website :- https://frontend-production-05c9.up.railway.app/patient
 
-🚀 Features
+##🚀 Features
 MedQueue AI (Patient & Hospital Management)
 Hospital Management
 
@@ -24,7 +24,8 @@ Personalized career roadmaps and college matching
 Success probability predictions
 24/7 AI mentor chatbot
 Scholarship recommendations
-🛠 Tech Stack
+
+##🛠 Tech Stack
 Component	Technologies
 Frontend	React 18, TypeScript, Tailwind CSS, Vite
 Backend	Node.js, Express, Python (FastAPI for ML)
@@ -33,6 +34,7 @@ ML/AI	TensorFlow, scikit-learn, XGBoost, Prophet
 LLM	GPT-4 / Claude via LangChain
 Testing	Testsprite automated tests
 Deployment	Render, Firebase Hosting
+
 📋 Quick Start
 Prerequisites
 Node.js 20+
